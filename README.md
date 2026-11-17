@@ -1,60 +1,80 @@
 <div align="center">
 
-# Hey, ich bin Finn (ProfessorFilou) 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+ich+bin+Finn+%F0%9F%91%8B;aka+ProfessorFilou+%F0%9F%8E%AE;Ich+baue+Web-Apps%2C+Bots+%26+Minecraft-Server" alt="Typing SVG" />
 
-**Entwickler, Tüftler und Creator hinter [professorfilou.de](https://professorfilou.de)**  
+# ProfessorFilou
+
+**Entwickler · Tüftler · Creator** hinter [professorfilou.de](https://professorfilou.de)
+
 *Interaktive Web-Apps · Live-Bots · Community & Gaming*
 
-<br>
+[![Website](https://img.shields.io/badge/🌐_Website-professorfilou.de-8B5CF6?style=for-the-badge&labelColor=1a1a2e)](https://professorfilou.de)
+[![Discord](https://img.shields.io/badge/💬_Discord-Join-5865F2?style=for-the-badge&labelColor=1a1a2e)](https://discord.gg/HqkAZFqp)
+[![Twitch](https://img.shields.io/badge/🟣_Twitch-professorfilou-9146FF?style=for-the-badge&labelColor=1a1a2e)](https://twitch.tv/professorfilou)
+[![YouTube](https://img.shields.io/badge/🔴_YouTube-Abonnieren-FF0000?style=for-the-badge&labelColor=1a1a2e)](https://www.youtube.com/channel/UC86cueR98zunXF0THBAbiMg)
 
-<!-- Social Links mit echten Logos (direkt über GitHub gehostet = 100% ladefähig) -->
-<a href="https://professorfilou.de" target="_blank">
-  <img src="https://githubusercontent.com" width="32" height="32" alt="Website" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg" target="_blank">
-  <img src="https://githubusercontent.com" width="32" height="32" alt="Discord" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitch.tv" target="_blank">
-  <img src="https://githubusercontent.com" width="32" height="32" alt="Twitch" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com" target="_blank">
-  <img src="https://githubusercontent.com" width="32" height="32" alt="YouTube" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com" target="_blank">
-  <img src="https://githubusercontent.com" width="32" height="32" alt="GitHub" />
-</a>
-
-<br><br>
-
-[**🌐 Website öffnen**](https://professorfilou.de) &nbsp;•&nbsp; [**💬 Discord beitreten**](https://discord.gg) &nbsp;•&nbsp; [**🟣 Twitch Stream**](https://twitch.tv) &nbsp;•&nbsp; [**🔴 YouTube Kanal**](https://youtube.com)
+<img src="https://komarev.com/ghpvc/?username=professorfilou&color=8B5CF6&style=for-the-badge&label=Besucher" alt="Besucherzähler" />
 
 </div>
 
 ---
 
-### 🚀 Meine Projekte & Web-Hub
+## 🚀 Meine Projekte
 
 | Projekt | Beschreibung | Status |
-| :--- | :--- | :--- |
-| **[ProfessorFilou.de](https://professorfilou.de)** | Mein zentraler Web-Hub mit Live-Status für Twitch, YouTube & Discord sowie Community-Features. | 🟢 Live |
-| **[SchoolOS](https://professorfilou.de)** | Eigene Web-Plattform und digitale Tools für den Schulalltag. | 🟢 Aktiv |
-| **[WeatherWeb](https://professorfilou.de/WeatherWeb/)** | Interaktive Wetter-Web-App mit stündlicher Vorhersage, Luftdruck und 7-Tage-Trend. | 🟢 Live |
-| **Live-Bots & Widgets** | Echtzeit-Integrationen für Streams, Discord-Server und Besucher-Interaktionen. | 🛠️ In Arbeit |
+| --- | --- | --- |
+| 🌐 **[ProfessorFilou.de](https://professorfilou.de)** | Zentraler Web-Hub mit Live-Status für Twitch, YouTube & Discord | 🟢 Live |
+| 🏫 **[SchoolOS](https://professorfilou.de)** | Eigene Web-Plattform & digitale Tools für den Schulalltag | 🟢 Aktiv |
+| 🌦️ **[WeatherWeb](https://professorfilou.de/WeatherWeb/)** | Wetter-App mit Stunden-Vorhersage, Luftdruck & 7-Tage-Trend | 🟢 Live |
+| 🧱 **ProBuilder** | Bau- & Kreativ-Tool | 🟢 Live |
+| 💬 **Chat** | Eigene Chat-Plattform | 🟢 Live |
+| 🎮 **Pong / Quiz / Tycoon / Terminal** | Mini-Games & Experimente | 🟢 Live |
+| 🤖 **Live-Bots & Widgets** | Echtzeit-Integrationen für Streams, Discord & Website | 🛠️ In Arbeit |
+
+→ **Alle Projekte findest du live auf [professorfilou.de](https://professorfilou.de)**
 
 ---
 
-### 🛠️ Tech-Stack & Tools
+## 🛠️ Tech-Stack
 
 <div align="center">
 
-| Frontend & Design | Backend & Echtzeit | Gaming & Tools |
-| :---: | :---: | :---: |
-| <img src="https://githubusercontent.com" width="24" /> **HTML5** | <img src="https://githubusercontent.com" width="24" /> **Firebase** | <img src="https://githubusercontent.com" width="24" /> **Git & GitHub** |
-| <img src="https://githubusercontent.com" width="24" /> **CSS3** | <img src="https://githubusercontent.com" width="24" /> **APIs & Webhooks** | **Minecraft Server** |
-| <img src="https://githubusercontent.com" width="24" /> **JavaScript** | **Twitch & Discord Bots** | **Web-Hosting** |
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,firebase,git,github,vscode,discord,bots&perline=10" alt="Tech Stack" />
+
+**Frontend:** HTML5 · CSS3 · JavaScript
+**Backend & Echtzeit:** Firebase · APIs & Webhooks · Twitch & Discord Bots
+**Gaming & Tools:** Git & GitHub · Minecraft Server · Web-Hosting
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=professorfilou&show_icons=true&bg_color=1a1a2e&title_color=8B5CF6&icon_color=5865F2&text_color=e0e0e0&border_color=8B5CF6&hide_border=false" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorfilou&layout=compact&bg_color=1a1a2e&title_color=8B5CF6&text_color=e0e0e0&border_color=5865F2" alt="Top Sprachen" />
+
+<img src="https://streak-stats.demolab.com?user=professorfilou&bg_color=1a1a2e&stroke=8B5CF6&ring=8B5CF6&fire=FF6B35&sideDates=e0e0e0&dates=e0e0e0&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🎯 Aktuell
+
+- 🔭 Arbeite an **Live-Bots & Widgets** für Streams und Discord
+- 🌱 Lerne jeden Tag etwas Neues über Web-Entwicklung & Echtzeit-Apps
+- 🎮 Minecraft-Server & Community-Projekte am Laufen
+- 💬 Frag mich alles über Web-Apps, Bots oder Firebase!
+
+---
+
+<div align="center">
+
+**💬 Tritt unserer Community bei:** [Discord-Server](https://discord.gg/HqkAZFqp) · [Twitch-Livestream](https://twitch.tv/professorfilou) · [YouTube](https://www.youtube.com/channel/UC86cueR98zunXF0THBAbiMg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22,26&height=80&section=footer" width="100%" alt="" />
 
 </div>
