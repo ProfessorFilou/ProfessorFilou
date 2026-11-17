@@ -19,22 +19,6 @@
 
 ---
 
-## 🚀 Meine Projekte
-
-| Projekt | Beschreibung | Status |
-| --- | --- | --- |
-| 🌐 **[ProfessorFilou.de](https://professorfilou.de)** | Zentraler Web-Hub mit Live-Status für Twitch, YouTube & Discord | 🟢 Live |
-| 🏫 **[SchoolOS](https://professorfilou.de)** | Eigene Web-Plattform & digitale Tools für den Schulalltag | 🟢 Aktiv |
-| 🌦️ **[WeatherWeb](https://professorfilou.de/WeatherWeb/)** | Wetter-App mit Stunden-Vorhersage, Luftdruck & 7-Tage-Trend | 🟢 Live |
-| 🧱 **ProBuilder** | Bau- & Kreativ-Tool | 🟢 Live |
-| 💬 **Chat** | Eigene Chat-Plattform | 🟢 Live |
-| 🎮 **Pong / Quiz / Tycoon / Terminal** | Mini-Games & Experimente | 🟢 Live |
-| 🤖 **Live-Bots & Widgets** | Echtzeit-Integrationen für Streams, Discord & Website | 🛠️ In Arbeit |
-
-→ **Alle Projekte findest du live auf [professorfilou.de](https://professorfilou.de)**
-
----
-
 ## 🛠️ Tech-Stack
 
 <div align="center">
@@ -59,15 +43,6 @@
 <img src="https://streak-stats.demolab.com?user=professorfilou&bg_color=1a1a2e&stroke=8B5CF6&ring=8B5CF6&fire=FF6B35&sideDates=e0e0e0&dates=e0e0e0&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🎯 Aktuell
-
-- 🔭 Arbeite an **Live-Bots & Widgets** für Streams und Discord
-- 🌱 Lerne jeden Tag etwas Neues über Web-Entwicklung & Echtzeit-Apps
-- 🎮 Minecraft-Server & Community-Projekte am Laufen
-- 💬 Frag mich alles über Web-Apps, Bots oder Firebase!
 
 ---
 
