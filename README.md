@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+ich+bin+Finn+%F0%9F%91%8B;aka+ProfessorFilou+%F0%9F%8E%AE;Ich+baue+Web-Apps%2C+Bots+%26+Minecraft-Server" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+ich+bin+Finn+%F0%9F%91%8B;aka+ProfessorFilou+%F0%9F%8E%AE;Ich+baue+Web-Apps%2C+Bots+%26+Minecraft-Zeug" alt="Typing SVG" />
 
 # ProfessorFilou
 
